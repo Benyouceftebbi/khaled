@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "tullin-ecce0"
-  }
+    "default": "khaled-37140",
+    "crm": "khaled-37140"
+  },
+  "targets": {},
+  "etags": {}
 }
